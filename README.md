@@ -87,13 +87,14 @@ flutterfire configure
 
 ## 👥 Contributors
 
-This project was originally developed as a group assignment for the KP34903 Web Technology course (Group 7).
+This project was originally developed as a group assignment for the KT34302 Technopreneurship (Group 7).
 
 | Name | Profile Link |
 | :--- | :--- |
-| **Aniq Najmuddin Bin Sharifuddin** | [LinkedIn](https://www.linkedin.com/in/aniqnajmuddin) |
-| **Muhammad Faris Bin Huzaimi** | [LinkedIn](https://www.linkedin.com/in/muhammadfaris) |
-| **Muhammad Isyraf Ahnaf Bin M. Zamri** | [LinkedIn](https://www.linkedin.com/in/muhammadisyraf) |
-| **Muhammad Saifullah Bin Rosman** | [LinkedIn](https://www.linkedin.com/in/muhammadsaifullah) |
-
+| **Wan Ahmad Nurullah Bin Wan M. Azahri** | [LinkedIn](https://www.linkedin.com/in/wanahmadnurullah/) |
+| **Christherressa Eduward** | [LinkedIn](https://www.linkedin.com/in/christherressa-eduward-109319291/) |
+| **Putri Balqis Hakimah Binti Ismaily** | [LinkedIn]() |
+| **Jessie Abbygil Anak Philip** | [LinkedIn]() |
+| **Cody Ryan James** | [LinkedIn]() |
+| **Joyce Grace George** | [LinkedIn]() |
 
