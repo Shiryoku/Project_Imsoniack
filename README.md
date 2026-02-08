@@ -91,7 +91,7 @@ This project was originally developed as a group assignment for the KT34302 Tech
 
 | Name | Profile Link |
 | :--- | :--- |
-| **Wan Ahmad Nurullah Bin Wan M. Azahri** | [LinkedIn](https://www.linkedin.com/in/wanahmadnurullah/) |
+| **Wan Ahmad Nurullah Bin Wan M. Azhari** | [LinkedIn](https://www.linkedin.com/in/wanahmadnurullah/) |
 | **Christherressa Eduward** | [LinkedIn](https://www.linkedin.com/in/christherressa-eduward-109319291/) |
 | **Putri Balqis Hakimah Binti Ismaily** | [LinkedIn]() |
 | **Jessie Abbygil Anak Philip** | [LinkedIn]() |
