@@ -96,5 +96,5 @@ This project was originally developed as a group assignment for the KT34302 Tech
 | **Putri Balqis Hakimah Binti Ismaily** | [LinkedIn]() |
 | **Jessie Abbygil Anak Philip** | [LinkedIn]() |
 | **Cody Ryan James** | [LinkedIn]() |
-| **Joyce Grace George** | [LinkedIn]() |
+| **Joyce Grace George** | [LinkedIn](https://www.linkedin.com/in/joyce-grace-george-2555aa3ab/) |
 
