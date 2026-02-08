@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731064675508",
+    "project_id": "project-imsoniack-1",
+    "storage_bucket": "project-imsoniack-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731064675508:android:8e5797abf16b6b7971fbe1",
+        "android_client_info": {
+          "package_name": "com.example.project_imsoniack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4l6WTFTpR1g_2WwRgT5aSk3OUOF4zrC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
