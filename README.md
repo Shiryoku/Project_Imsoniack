@@ -93,7 +93,7 @@ This project was originally developed as a group assignment for the KT34302 Tech
 | :--- | :--- |
 | **Wan Ahmad Nurullah Bin Wan M. Azhari** | [LinkedIn](https://www.linkedin.com/in/wanahmadnurullah/) |
 | **Christherressa Eduward** | [LinkedIn](https://www.linkedin.com/in/christherressa-eduward-109319291/) |
-| **Putri Balqis Hakimah Binti Ismaily** | [LinkedIn]() |
+| **Putri Balqis Hakimah Binti Ismaily** | [LinkedIn](https://www.linkedin.com/in/putri-balqis-46b414295/) |
 | **Jessie Abbygil Anak Philip** | [LinkedIn]() |
 | **Cody Ryan James** | [LinkedIn]() |
 | **Joyce Grace George** | [LinkedIn](https://www.linkedin.com/in/joyce-grace-george-2555aa3ab/) |
